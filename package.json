@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/FuadXyro/Baileys",
+  "homepage": "https://github.com/FallEzz/Baileys",
   "repository": {
-    "url": "git+ssh://git@github.com/FuadXyro/Baileys.git"
+    "url": "git+ssh://git@github.com/FallEzz/Baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
